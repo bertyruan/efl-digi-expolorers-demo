@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <style>
+        </style>
+    </head>
+    <body>
+        <h1>Digi Class</h1>
+        <em><h2><a href="eflchiangmai.com">Effective Foreign Language School</a></h2></em>
+        
+        <h2>Purpose</h2>
+        <p>
+            The purpose of learning HTML is to learn to design and produce pages for the <em>World Wide Web</em>.
+        </p>
+
+        <h2>Objectives</h2>
+        <p>
+            The objectives for this class include 
+            <ul>
+                <li>Learning about online safety</li>
+                <li>Creating animations</li>
+                <li>Creating and publishing a website</li>
+            </ul>
+        </p>
+
+        <h2>Why We Do It</h2>
+        <p>
+            Because we are a select group of <strong>hard working</strong>, knowledgeable students with the creativity and dedication to do a good job.
+        </p>
+        <p>We also like to learn.</p>
+        <img src="https://www.fulcrumlabs.ai/wp-content/uploads/2017/09/learning-culture.gif" height="20%"/>
+    </body>
+</html>
